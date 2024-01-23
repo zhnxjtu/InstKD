@@ -1,7 +1,5 @@
 # InstKD
-# Critical codes for T-IV Submission "InstKD: Towards Lightweight 3D Object Detection with Instance-aware Knowledge Distillation" (The complete code will be available).
-
-This is part of the critical Pytorch implementation (the complete project will be available) of our paper "InstKD: Towards Lightweight 3D Object Detection with Instance-aware Knowledge Distillation". Our codes and pre-trained teacher models are based on OpenPCDet and SparseKD detection framework. Thanks OpenPCDet Development Team for their awesome codebase.
+This is part of the critical Pytorch implementation (the complete project will be available) of our paper "InstKD: Towards Lightweight 3D Object Detection with Instance-aware Knowledge Distillation". Our codes and pre-trained teacher models are based on OpenPCDet and SparseKD detection framework. Thanks OpenPCDet Development Team for their awesome codebase (The complete code will be available).
 
 1. Pre-trained Teacher model: The pre-trained teacher models and raw student models are trained by running '.yaml' file in OpenPCDet.
 
